@@ -1,2 +1,2 @@
 # Outeasy.com
-outeasy.com文章备份
+outeasy.com文章
