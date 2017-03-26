@@ -1,2 +1,1 @@
-# Outeasy.com
-outeasy.com文章
+#文章
